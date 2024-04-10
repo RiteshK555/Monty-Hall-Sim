@@ -15,5 +15,5 @@ Basic c++ setup
 ## Usage
 
 g++ main.cpp -o output
-Example for running output file
+Example for running output file  
 ./output 10 6 100000

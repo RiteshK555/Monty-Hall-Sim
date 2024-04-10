@@ -9,7 +9,7 @@ This simulator takes 3 arguments num_doors, num_doors_opened_by_host, num_simula
 
 ## Installation
 
-Download the project
+Download the project  
 Basic c++ setup
 
 ## Usage
